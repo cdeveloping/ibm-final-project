@@ -34,9 +34,12 @@ funcionamiento en cada parte relevante.</li>
 
 ## Versiones del programa
 <ul>
-    <li><a href = "https://github.com/cdeveloping/ibm-final-project/blob/main/Version%201/proyecto_final.py">Versión 1 del programa.</a></li> 
     <p>Esta versión que llamaremos 1.0 es un poco básica aunque totalement funcional, en ella encontraremos una aplicación de consola que nos permite gestionar tareas de una manera sencilla.</p>
+     <li><a href = "https://github.com/cdeveloping/ibm-final-project/blob/main/Version%201/proyecto_final.py">Versión 1 del programa.</a></li> 
 <hr>
+    <p>Para esta segunda versión realizaré el mismo proyecto, pero en está ocasión nos permitirá guardar y recuperar los datos desde un archivo externo a la app.</p>
+    <li><a href = "#">Versión 2 (Próximamente).</a></li>
+    
 </ul> 
 
 
