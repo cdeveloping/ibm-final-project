@@ -1,7 +1,8 @@
 # Proyecto final Curso IBM - Python Full Stack
 
 <p>En  este repositorio encontrarás el proyecto que nos encargarón como actividad final en el curso de IBM Python Full Stack.</p>
-<p>A continuación se detallan los requisitos que nos pidierón</p>
+
+## Requisitos del proyecto
 
 <p>
 Escribe un programa en Python utilizando Programación Orientada a Objetos que gestione
@@ -33,6 +34,6 @@ funcionamiento en cada parte relevante.</li>
 
 ## Versiones del programa
 <ul>
-    <li><a href = "#">Versión 1 del programa.</a></li>
+    <li><a href = "https://github.com/cdeveloping/ibm-final-project/blob/main/Version%201/proyecto_final.py">Versión 1 del programa.</a></li>  
 
 
