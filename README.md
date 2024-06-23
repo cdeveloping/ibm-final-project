@@ -38,7 +38,7 @@ funcionamiento en cada parte relevante.</li>
      <li><a href = "https://github.com/cdeveloping/ibm-final-project/blob/main/Version%201/proyecto_final.py">Versión 1 del programa.</a></li> 
 <hr>
     <p>Para esta segunda versión realizaré el mismo proyecto, pero en está ocasión nos permitirá guardar y recuperar los datos desde un archivo externo a la app.</p>
-    <li><a href = "#">Versión 2 (Próximamente).</a></li>
+    <li><a href = "https://github.com/cdeveloping/ibm-final-project/blob/main/Version%202/proyecto_final_v2.py">Versión 2.</a></li>
     
 </ul> 
 
