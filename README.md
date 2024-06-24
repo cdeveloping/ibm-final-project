@@ -38,7 +38,13 @@ funcionamiento en cada parte relevante.</li>
      <li><a href = "https://github.com/cdeveloping/ibm-final-project/blob/main/Version%201/proyecto_final.py">Versión 1 del programa.</a></li> 
 <hr>
     <p>Para esta segunda versión realizaré el mismo proyecto, pero en está ocasión nos permitirá guardar y recuperar los datos desde un archivo externo a la app.</p>
-    <li><a href = "https://github.com/cdeveloping/ibm-final-project/blob/main/Version%202/proyecto_final_v2.py">Versión 2 del programa.</a></li>
+    <li><a href = "https://github.com/cdeveloping/ibm-final-project/blob/main/Version%202/proyecto_final_v2.py">Versión 2 del programax.</a></li>
+<hr>
+    <p>En la tercera versión de nuestra pequeña aplicación, hemos añadido una interfaz gráfica que la hace más amigable de cara a su utilización.</p>
+    <p>Para la realización de la interfaz gráfica usaremos la bibilioteca TKINTER de Python.</p>
+    <li><a href = "https://github.com/cdeveloping/ibm-final-project/blob/main/Version%203/proyecto_final%20_v3.py">Versión 3 del programa.</a>
+<hr>
+
     
 </ul> 
 
